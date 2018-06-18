@@ -1,0 +1,10 @@
+*.pdf
+*.jpg
+*.tiff
+*.doc
+*.docx
+
+.RData
+.Rhistory
+/OUTPUT/
+/CACHES/
